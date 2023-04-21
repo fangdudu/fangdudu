@@ -32,11 +32,11 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/fangdudu/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangdudu&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
+[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fangdudu&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=fangdudu&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
 
 <!--
 <table border="0">
