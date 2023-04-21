@@ -116,7 +116,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/fangdudu
 <div align="center">
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"
+        src="https://raw.githubusercontent.com/fangdudu/figure-bed/main/img/202304211658699.jpg" align="center"
     />
   </a>
 </div>
