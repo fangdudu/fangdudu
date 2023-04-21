@@ -71,7 +71,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 </div>
 
 </td>
-
+<td valign="top" width="33%">
 #### Frontend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
