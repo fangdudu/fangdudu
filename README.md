@@ -12,6 +12,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://jiqiang.fun/)
   [![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://jiqiang.fun/)
   [![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://jiqiang.fun/)
+  [![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://jiqiang.fun/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://jiqiang.fun/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?style=for-the-badge&logo=postman&logoColor=FC8019)](https://jiqiang.fun/)
   [![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7043)](https://jiqiang.fun/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?style=for-the-badge&logo=nginx&logoColor=029137)](https://jiqiang.fun/)
@@ -33,7 +35,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://jiqiang.fun/)
   [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jiqiang.fun/)
   [![vue](	https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://jiqiang.fun/)
-  [![python](https://img.shields.io/badge/python-35495E?style=for-the-badge&logo=python&logoColor=61DAFB)](https://jiqiang.fun/)
+  [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://jiqiang.fun/)
+  
 - 🌱 I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?style=for-the-badge&logo=v8&logoColor=4788F4)](https://jiqiang.fun/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?style=for-the-badge&logo=go&logoColor=00ACC1)](https://jiqiang.fun/)
