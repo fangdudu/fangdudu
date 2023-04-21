@@ -9,6 +9,13 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat02.jpg)
 
 - 🚀 I use daily:
+  [ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://blog.i-xiao.space/)
+  [![go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://blog.i-xiao.space/)
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?style=for-the-badge&logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
+  [![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?style=for-the-badge&logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
+  [![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?style=for-the-badge&logo=jenkins&logoColor=F16061)](https://blog.i-xiao.space/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
