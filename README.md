@@ -33,7 +33,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://jiqiang.fun/)
   [![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jiqiang.fun/)
   [![vue](	https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://jiqiang.fun/)
-  
+  [![python](https://img.shields.io/badge/python-35495E?style=for-the-badge&logo=python&logoColor=61DAFB)](https://jiqiang.fun/)
 - 🌱 I’m currently learning:
   [![V8](https://img.shields.io/badge/-V8-3DDC84?style=for-the-badge&logo=v8&logoColor=4788F4)](https://jiqiang.fun/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?style=for-the-badge&logo=go&logoColor=00ACC1)](https://jiqiang.fun/)
