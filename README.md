@@ -111,7 +111,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/fangdudu
 </td>
 </tr>
 </table>
-
 <br/>
 <div align="center">
   <a href="https://raw.githubusercontent.com/fangdudu/figure-bed/main/img/202304211658699.jpg" target="_blank" style="display: inline-block;">
