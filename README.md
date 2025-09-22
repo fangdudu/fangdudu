@@ -19,7 +19,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![alibaba_cloud](https://img.shields.io/badge/alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)]()
    [![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://jiqiang.fun/)
    [![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)](https://jiqiang.fun/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?style=for-the-badge&logo=jenkins&logoColor=F16061)](https://jiqiang.fun/)
+
   
 - 💻 I work using:
   [![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jiqiang.fun/)
