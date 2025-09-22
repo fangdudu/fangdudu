@@ -19,7 +19,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![alibaba_cloud](https://img.shields.io/badge/alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)]()
    [![Linux](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)](https://jiqiang.fun/)
    [![Docker](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)](https://jiqiang.fun/)
-
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?style=for-the-badge&logo=Kubernetes&logoColor=316CE6)](https://jiqiang.fun/)
   
 - 💻 I work using:
   [![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jiqiang.fun/)
@@ -40,7 +40,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![V8](https://img.shields.io/badge/-V8-3DDC84?style=for-the-badge&logo=v8&logoColor=4788F4)](https://jiqiang.fun/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?style=for-the-badge&logo=go&logoColor=00ACC1)](https://jiqiang.fun/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://jiqiang.fun/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?style=for-the-badge&logo=Kubernetes&logoColor=316CE6)](https://jiqiang.fun/)
+  
 
 
 Welcome, You are my visitor, Thank You!🎉🎉
