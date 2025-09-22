@@ -44,7 +44,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?style=for-the-badge&logo=Kubernetes&logoColor=316CE6)](https://jiqiang.fun/)
 
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/fangdudu/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
+Welcome, You are my visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangdudu&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
