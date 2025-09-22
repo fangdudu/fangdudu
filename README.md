@@ -37,10 +37,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://jiqiang.fun/)
   
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?style=for-the-badge&logo=v8&logoColor=4788F4)](https://jiqiang.fun/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?style=for-the-badge&logo=go&logoColor=00ACC1)](https://jiqiang.fun/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://jiqiang.fun/)
-  
 
 
 Welcome, You are my visitor, Thank You!🎉🎉
