@@ -2,7 +2,7 @@
 
 ### _Hi there 👋, I'm Fangdudu._
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. 
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:jiqiang_fang@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fangjiqiang124@gmail.com)
