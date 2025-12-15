@@ -36,10 +36,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![vue](	https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://jiqiang.fun/)
   [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://jiqiang.fun/)
   
-- 🌱 I’m currently learning:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?style=for-the-badge&logo=go&logoColor=00ACC1)](https://jiqiang.fun/)
-
-
 Welcome, You are my visitor, Thank You!🎉🎉
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangdudu&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
